@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mouamfon
-- 👀 I’m interested in a Data Analyst and full stack developments. 
+- 👀 I’m interested in a Data Analytics and a full stack developments. 
 - 🌱 I’m currently learning programming with laravel 8.
 - 💞️ I’m looking to collaborate on database architects projects, data analytics projects or full stack development projects.
 - 📫 How to reach me by https://github.com/Mouamfon.
